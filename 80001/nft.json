@@ -1,0 +1,54 @@
+{
+  "type": "ERC721",
+  "name": "EverPluto",
+  "symbol": "EP",
+  "address": "0x7280Ab218B2560747d8A88055932A2713CCa1b81",
+  "productAddress": "0x5248614663A28A1A512Dcf48936d591Bab0Be1A6",
+  "tiers": [
+    {
+      "price": 1500,
+      "maxOogPaymentPct": 30,
+      "amount": 100
+    },
+    {
+      "price": 1800,
+      "maxOogPaymentPct": 30,
+      "amount": 400
+    },
+    {
+      "price": 2200,
+      "maxOogPaymentPct": 30,
+      "amount": 500
+    },
+    {
+      "price": 2600,
+      "maxOogPaymentPct": 20,
+      "amount": 500
+    },
+    {
+      "price": 3100,
+      "maxOogPaymentPct": 20,
+      "amount": 500
+    },
+    {
+      "price": 3600,
+      "maxOogPaymentPct": 20,
+      "amount": 600
+    },
+    {
+      "price": 4000,
+      "maxOogPaymentPct": 15,
+      "amount": 600
+    },
+    {
+      "price": 4500,
+      "maxOogPaymentPct": 15,
+      "amount": 800
+    },
+    {
+      "price": 5000,
+      "maxOogPaymentPct": 15,
+      "amount": 1000
+    }
+  ]
+}
