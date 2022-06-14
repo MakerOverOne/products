@@ -10,7 +10,7 @@
     "limitPerWallet": 1,
     "publicLimitPerWallet": 10000,
     "limitPerTx": 10,
-    "rarities": {
+    "levels": {
       "0": {
         "name": "Rare",
         "startTokenId": 1,
@@ -116,7 +116,7 @@
         ]
       }
     },
-    "publicRarities": {
+    "publicLevels": {
       "0": {
         "name": "Rare",
         "startTokenId": 3396,
