@@ -12,6 +12,7 @@
     "limitPerTx": 10,
     "rarities": {
       "0": {
+        "name": "Rare",
         "startTokenId": 1,
         "tiers": [
           {
@@ -62,6 +63,7 @@
         ]
       },
       "1": {
+        "name": "Epic",
         "startTokenId": 6791,
         "tiers": [
           {
@@ -92,6 +94,7 @@
         ]
       },
       "2": {
+        "name": "Legendary",
         "startTokenId": 8791,
         "tiers": [
           {
@@ -102,6 +105,7 @@
         ]
       },
       "3": {
+        "name": "Ultra",
         "startTokenId": 9791,
         "tiers": [
           {
@@ -114,6 +118,7 @@
     },
     "publicRarities": {
       "0": {
+        "name": "Rare",
         "startTokenId": 3396,
         "tiers": [
           {
@@ -139,6 +144,7 @@
         ]
       },
       "1": {
+        "name": "Epic",
         "startTokenId": 7791,
         "tiers": [
           {
@@ -148,6 +154,7 @@
         ]
       },
       "2": {
+        "name": "Legendary",
         "startTokenId": 9291,
         "tiers": [
           {
@@ -157,6 +164,7 @@
         ]
       },
       "3": {
+        "name": "Ultra",
         "startTokenId": 9891,
         "tiers": [
           {
