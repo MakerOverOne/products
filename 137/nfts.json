@@ -1,1 +1,178 @@
-[]
+[
+  {
+    "type": "ERC721",
+    "name": "EverPluto",
+    "symbol": "EP",
+    "address": "0x108e4BA1814Af39d5DfB71ea3073BD2A4405D3AB",
+    "productAddress": "0x84B2ba01275ECd7307B4B3Eb10B258aaC8809992",
+    "publicProductAddress": "0x0000000000000000000000000000000000000000",
+    "startTime": 1655643600,
+    "limitPerWallet": 1,
+    "publicLimitPerWallet": 10000,
+    "limitPerTx": 10,
+    "packages": [
+      {
+        "name": "Rare",
+        "startTokenId": 1,
+        "tiers": [
+          {
+            "price": 1500,
+            "maxOogPaymentPct": 30,
+            "amount": 100
+          },
+          {
+            "price": 1800,
+            "maxOogPaymentPct": 30,
+            "amount": 400
+          },
+          {
+            "price": 2200,
+            "maxOogPaymentPct": 30,
+            "amount": 500
+          },
+          {
+            "price": 2600,
+            "maxOogPaymentPct": 20,
+            "amount": 200
+          },
+          {
+            "price": 3100,
+            "maxOogPaymentPct": 20,
+            "amount": 300
+          },
+          {
+            "price": 3600,
+            "maxOogPaymentPct": 20,
+            "amount": 300
+          },
+          {
+            "price": 4000,
+            "maxOogPaymentPct": 15,
+            "amount": 400
+          },
+          {
+            "price": 4500,
+            "maxOogPaymentPct": 15,
+            "amount": 500
+          },
+          {
+            "price": 5000,
+            "maxOogPaymentPct": 10,
+            "amount": 695
+          }
+        ]
+      },
+      {
+        "name": "Epic",
+        "startTokenId": 6791,
+        "tiers": [
+          {
+            "price": 11000,
+            "maxOogPaymentPct": 10,
+            "amount": 200
+          },
+          {
+            "price": 12000,
+            "maxOogPaymentPct": 10,
+            "amount": 200
+          },
+          {
+            "price": 13000,
+            "maxOogPaymentPct": 10,
+            "amount": 200
+          },
+          {
+            "price": 14000,
+            "maxOogPaymentPct": 10,
+            "amount": 200
+          },
+          {
+            "price": 15000,
+            "maxOogPaymentPct": 10,
+            "amount": 200
+          }
+        ]
+      },
+      {
+        "name": "Legendary",
+        "startTokenId": 8791,
+        "tiers": [
+          {
+            "price": 30000,
+            "maxOogPaymentPct": 10,
+            "amount": 500
+          }
+        ]
+      },
+      {
+        "name": "Ultra",
+        "startTokenId": 9791,
+        "tiers": [
+          {
+            "price": 150000,
+            "maxOogPaymentPct": 10,
+            "amount": 100
+          }
+        ]
+      }
+    ],
+    "publicPackages": [
+      {
+        "name": "Rare",
+        "startTokenId": 3396,
+        "tiers": [
+          {
+            "price": 6000,
+            "amount": 500
+          },
+          {
+            "price": 7000,
+            "amount": 500
+          },
+          {
+            "price": 8000,
+            "amount": 1000
+          },
+          {
+            "price": 9000,
+            "amount": 1000
+          },
+          {
+            "price": 10000,
+            "amount": 395
+          }
+        ]
+      },
+      {
+        "name": "Epic",
+        "startTokenId": 7791,
+        "tiers": [
+          {
+            "price": 30000,
+            "amount": 1000
+          }
+        ]
+      },
+      {
+        "name": "Legendary",
+        "startTokenId": 9291,
+        "tiers": [
+          {
+            "price": 60000,
+            "amount": 500
+          }
+        ]
+      },
+      {
+        "name": "Ultra",
+        "startTokenId": 9891,
+        "tiers": [
+          {
+            "price": 300000,
+            "amount": 100
+          }
+        ]
+      }
+    ]
+  }
+]
