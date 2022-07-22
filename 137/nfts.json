@@ -174,5 +174,16 @@
         ]
       }
     ]
+  },
+  {
+    "type": "ERC1155",
+    "name": "Nifties Lab Equity Shares",
+    "symbol": "NLES",
+    "id": 1,
+    "address": "0x1Fb65495196919a0d9805FB40a7450BBB090e04e",
+    "productAddress": "0x7c95c75E89730D1De986aF8c0E112FD7DE9A2385",
+    "startTime": 1658588400,
+    "packages": [1, 3, 5, 10, 20],
+    "useOOG": false
   }
 ]
