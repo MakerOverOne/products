@@ -185,5 +185,72 @@
     "startTime": 1658588400,
     "packages": [1, 3, 5, 10, 20],
     "useOOG": false
+  },
+  {
+    "type": "ERC1155V2",
+    "name": "Saloom Minting Machine",
+    "symbol": "SALOOM",
+    "address": "0x48D549687A9B75446f3F415327A1d601b2eF2BFB",
+    "productAddress": "0xbB419622B320f755575bca02057eed61C315e2FE",
+    "packages": [
+      {
+        "id": 1,
+        "name": "Diamond",
+        "amount": 1,
+        "oogPayablePct": 30
+      },
+      {
+        "id": 2,
+        "name": "Gold",
+        "amount": 1,
+        "oogPayablePct": 30
+      },
+      {
+        "id": 3,
+        "name": "Silver",
+        "amount": 1,
+        "oogPayablePct": 30
+      },
+      {
+        "id": 4,
+        "name": "Bronze",
+        "amount": 1,
+        "oogPayablePct": 30
+      }
+    ]
+  },
+  {
+    "type": "ERC1155V2",
+    "name": "WIC EQUITY NFT",
+    "symbol": "WIC",
+    "address": "0x226892f33a054E5350Fe5DEB7d56A55359Af1607",
+    "productAddress": "0xaC9E4321A36Fa295c8d342A0116C2000Df1754F7",
+    "packages": [
+      {
+        "id": 1,
+        "name": "1 WIC",
+        "amount": 1
+      },
+      {
+        "id": 1,
+        "name": "10 WIC",
+        "amount": 10
+      },
+      {
+        "id": 1,
+        "name": "50 WIC",
+        "amount": 50
+      },
+      {
+        "id": 1,
+        "name": "100 WIC",
+        "amount": 100
+      },
+      {
+        "id": 1,
+        "name": "500 WIC",
+        "amount": 500
+      }
+    ]
   }
 ]
