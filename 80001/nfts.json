@@ -185,5 +185,30 @@
     "startTime": 1652461200,
     "packages": [1, 3, 5, 10, 20],
     "useOOG": false
+  },
+  {
+    "type": "ERC1155V2",
+    "name": "Saloom Minting Machine",
+    "symbol": "SALOOM",
+    "address": "0xB67b11b968d09723958787c18ac076c1410773ad",
+    "productAddress": "0x3af1d72D21AcAF1a6302a4B659618B88c248feA6",
+    "packages": [
+      {
+        "id": 1,
+        "oogPayablePct": 30
+      },
+      {
+        "id": 2,
+        "oogPayablePct": 30
+      },
+      {
+        "id": 3,
+        "oogPayablePct": 30
+      },
+      {
+        "id": 4,
+        "oogPayablePct": 30
+      }
+    ]
   }
 ]
