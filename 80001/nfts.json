@@ -218,5 +218,20 @@
         "oogPayablePct": 30
       }
     ]
+  },
+  {
+    "type": "ERC1155V2",
+    "name": "WIC EQUITY NFT",
+    "symbol": "WIC",
+    "address": "0x005f465c3018D5b90eB7dB2847101de847853416",
+    "productAddress": "0x9558bf5D2f6f8c66Fb7040d3e95ABD9a76ACE989",
+    "packages": [
+      {
+        "id": 1,
+        "name": "1",
+        "amount": 1,
+        "oogPayablePct": 0
+      }
+    ]
   }
 ]
