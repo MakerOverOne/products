@@ -230,6 +230,26 @@
         "id": 1,
         "name": "1 WIC",
         "amount": 1
+      },
+      {
+        "id": 1,
+        "name": "10 WIC",
+        "amount": 10
+      },
+      {
+        "id": 1,
+        "name": "20 WIC",
+        "amount": 20
+      },
+      {
+        "id": 1,
+        "name": "50 WIC",
+        "amount": 50
+      },
+      {
+        "id": 1,
+        "name": "10 WIC",
+        "amount": 100
       }
     ]
   }
