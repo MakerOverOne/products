@@ -238,11 +238,6 @@
       },
       {
         "id": 1,
-        "name": "20 WIC",
-        "amount": 20
-      },
-      {
-        "id": 1,
         "name": "50 WIC",
         "amount": 50
       },
@@ -250,6 +245,11 @@
         "id": 1,
         "name": "100 WIC",
         "amount": 100
+      },
+      {
+        "id": 1,
+        "name": "500 WIC",
+        "amount": 500
       }
     ]
   }
