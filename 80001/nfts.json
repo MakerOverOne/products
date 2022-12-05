@@ -195,18 +195,26 @@
     "packages": [
       {
         "id": 1,
+        "name": "Diamond",
+        "amount": 1,
         "oogPayablePct": 30
       },
       {
         "id": 2,
+        "name": "Gold",
+        "amount": 1,
         "oogPayablePct": 30
       },
       {
         "id": 3,
+        "name": "Silver",
+        "amount": 1,
         "oogPayablePct": 30
       },
       {
         "id": 4,
+        "name": "Bronze",
+        "amount": 1,
         "oogPayablePct": 30
       }
     ]
