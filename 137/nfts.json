@@ -188,8 +188,8 @@
   },
   {
     "type": "ERC1155V2",
-    "name": "Saloom Minting Machine",
-    "symbol": "SALOOM",
+    "name": "Soloom Minting Machine",
+    "symbol": "SOLOOM",
     "address": "0x48D549687A9B75446f3F415327A1d601b2eF2BFB",
     "productAddress": "0xbB419622B320f755575bca02057eed61C315e2FE",
     "packages": [
