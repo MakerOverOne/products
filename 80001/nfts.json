@@ -252,5 +252,26 @@
         "amount": 500
       }
     ]
+  },
+  {
+    "type": "ERC1155V2",
+    "name": "Webinar NFT",
+    "symbol": "WEBINAR",
+    "address": "0xF7C17d81abe565A24F45F3057b5644bB8C7984EA",
+    "productAddress": "0x2B61032E81f678F6701A0CBF445189c5Cb915BBc",
+    "packages": [
+      {
+        "id": 1,
+        "name": "1 Webinar",
+        "amount": 1,
+        "oogPayablePct": 100
+      },
+      {
+        "id": 2,
+        "name": "1 VIP Webinar",
+        "amount": 1,
+        "oogPayablePct": 100
+      }
+    ]
   }
 ]
