@@ -264,13 +264,15 @@
         "id": 1,
         "name": "1 Webinar",
         "amount": 1,
-        "oogPayablePct": 100
+        "oogPayablePct": 100,
+        "onlyOogPayment": true
       },
       {
         "id": 2,
         "name": "1 VIP Webinar",
         "amount": 1,
-        "oogPayablePct": 100
+        "oogPayablePct": 100,
+        "onlyOogPayment": true
       }
     ]
   }
