@@ -275,5 +275,22 @@
         "onlyOogPayment": true
       }
     ]
+  },
+  {
+    "type": "ERC1155V2",
+    "name": "The Enchanted Glade of Aurelian Roots",
+    "symbol": "TEGAR",
+    "isHealthClub": true,
+    "address": "0x84Bb84Ca120CDc28733b8b5fc7069b92A230f2d1",
+    "productAddress": "0x0156B4a2D54F8c67e1b488D4Dc21DB1083A16EAF",
+    "packages": [
+      {
+        "id": 1,
+        "name": "1 TEGAR",
+        "amount": 1,
+        "oogPayablePct": 20,
+        "onlyOogPayment": true
+      }
+    ]
   }
 ]
