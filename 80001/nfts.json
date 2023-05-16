@@ -281,8 +281,8 @@
     "name": "The Enchanted Glade of Aurelian Roots",
     "symbol": "TEGAR",
     "isHealthClub": true,
-    "address": "0x84Bb84Ca120CDc28733b8b5fc7069b92A230f2d1",
-    "productAddress": "0x0156B4a2D54F8c67e1b488D4Dc21DB1083A16EAF",
+    "address": "0xa16D00FfB67c163b5B78faC6738c6B55bAFB6F00",
+    "productAddress": "0x4654120eb127f9EC1D0E6B03aDA5F66A41B97A0f",
     "packages": [
       {
         "id": 1,
