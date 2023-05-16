@@ -288,8 +288,7 @@
         "id": 1,
         "name": "1 TEGAR",
         "amount": 1,
-        "oogPayablePct": 20,
-        "onlyOogPayment": true
+        "oogPayablePct": 20
       }
     ]
   }
