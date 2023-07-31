@@ -184,7 +184,10 @@
     "productAddress": "0xe8c836bC853DcaC60f0D2F95cf3dF1effbd3fb70",
     "startTime": 1652461200,
     "packages": [1, 3, 5, 10, 20],
-    "useOOG": false
+    "useOOG": false,
+    "versions": {
+      "speed": true
+    }
   },
   {
     "type": "ERC1155V2",

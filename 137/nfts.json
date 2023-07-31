@@ -184,7 +184,10 @@
     "productAddress": "0x7c95c75E89730D1De986aF8c0E112FD7DE9A2385",
     "startTime": 1658588400,
     "packages": [1, 3, 5, 10, 20],
-    "useOOG": false
+    "useOOG": false,
+    "versions": {
+      "speed": true
+    }
   },
   {
     "type": "ERC1155V2",
@@ -207,7 +210,10 @@
         "oogPayablePct": 100,
         "onlyOogPayment": true
       }
-    ]
+    ],
+    "versions": {
+      "speed": true
+    }
   },
   {
     "type": "ERC1155V2",
@@ -223,6 +229,9 @@
         "amount": 1,
         "oogPayablePct": 20
       }
-    ]
+    ],
+    "versions": {
+      "speed": true
+    }
   }
 ]
