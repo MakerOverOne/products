@@ -173,7 +173,11 @@
           }
         ]
       }
-    ]
+    ],
+    "versions": {
+      "speed": true,
+      "premier": true
+    }
   },
   {
     "type": "ERC1155",
